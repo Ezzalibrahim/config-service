@@ -18,5 +18,5 @@ eureka:
 
 customers:
   default:
-    tva: 5
-    coupon: 9
+    tva: 5555
+    coupon: 9999
