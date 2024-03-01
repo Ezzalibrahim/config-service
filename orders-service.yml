@@ -19,4 +19,4 @@ eureka:
 customers:
   default:
     tva: 1010
-    coupon: 0000
+    coupon: 00001
